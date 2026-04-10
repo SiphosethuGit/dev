@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "1775854094505",
+      "email": "siphosethumofokeng137@gmail.com",
+      "password": "1234567890"
+    }
+  ],
+  "logs": [
+    {
+      "_id": "1775854101651",
+      "userId": "1775854094505",
+      "activity": "elec",
+      "category": "energy",
+      "co2Value": 0.5,
+      "date": "2026-04-10T20:48:21.651Z"
+    },
+    {
+      "_id": "1775854104179",
+      "userId": "1775854094505",
+      "activity": "car",
+      "category": "transport",
+      "co2Value": 5,
+      "date": "2026-04-10T20:48:24.179Z"
+    },
+    {
+      "_id": "1775854107237",
+      "userId": "1775854094505",
+      "activity": "bus",
+      "category": "transport",
+      "co2Value": 0.5,
+      "date": "2026-04-10T20:48:27.237Z"
+    },
+    {
+      "_id": "1775854110610",
+      "userId": "1775854094505",
+      "activity": "beef",
+      "category": "food",
+      "co2Value": 15,
+      "date": "2026-04-10T20:48:30.610Z"
+    }
+  ]
+}
